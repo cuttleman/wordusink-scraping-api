@@ -17,7 +17,8 @@ def get_images(term, start):
 
 @app.route("/")
 def index():
-  return "<h1>Do you wanna Google Image? 🤔<h1>"
+  return "<h1>Do you wanna get Google Image? 🤔<h1>"
   
 if __name__ == "__main__":
-  app.run(threaded=True, port=3000,host="172.30.60.103")
+  app.run(port=3000, host="0.0.0.0")
+  # host="172.30.59.85"
