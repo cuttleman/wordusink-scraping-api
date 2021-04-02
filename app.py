@@ -1,19 +1,12 @@
 from flask import Flask, jsonify
-from bs4 import BeautifulSoup
-import requests
+from crawling import get_image
 
 app = Flask(__name__)
 
 @app.route("/api/<term>/<start>", methods=['GET'])
 def get_images(term, start):
-  print(term, start)
-  total = []
-  request = requests.get(f"https://www.google.com/search?q={term}&tbm=isch&tbs=isz:lt,islt:qsvga&num=18&start={start}&imgtype=photo")
-  soup = BeautifulSoup(request.text, "html.parser")
-  images = soup.find_all("img",{"class":"t0fcAb"})
-  for image in images:
-    total.append(image["src"])
-  return jsonify(total)
+  from_googles =  get_image(term,int(start))
+  return jsonify(from_googles)
 
 @app.route("/")
 def index():
