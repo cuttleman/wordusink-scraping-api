@@ -1,3 +1,4 @@
+  
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 import time
@@ -7,7 +8,7 @@ from bs4 import BeautifulSoup
 
 def get_image_with_selenium(term, start_num):    
   fireFoxOptions = webdriver.FirefoxOptions()
-  # fireFoxOptions.add_argument("--headless")
+  fireFoxOptions.add_argument("--headless")
   fireFoxOptions.add_argument("--no-sandbox")
   fireFoxOptions.add_argument("--disable-dev-shm-usage")
   fireFoxOptions.add_argument('User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36"')
@@ -22,7 +23,8 @@ def get_image_with_selenium(term, start_num):
   limit_count = 0
 
   for idx,image in enumerate(images):
-    if( limit_count >= 18):
+    # limit num = 18
+    if( limit_count >= 3):
       break
     else:
       if (idx >= start_num):
@@ -35,6 +37,7 @@ def get_image_with_selenium(term, start_num):
   driver.close()
 
   return crawled_images
+
 
 def get_image_with_bs(term, start_num):
   total = []

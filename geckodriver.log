@@ -822,3 +822,985 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1620989740283	geckodriver	INFO	Listening on 127.0.0.1:34667
+1620989741289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSOBlgV"
+1620989857287	geckodriver	INFO	Listening on 127.0.0.1:53149
+1620989857289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez330ve"
+1620992587265	geckodriver	INFO	Listening on 127.0.0.1:37543
+1620992588270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSJNpz"
+1620992612910	geckodriver	INFO	Listening on 127.0.0.1:34907
+1620992613920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3s78Rw"
+1620993355071	geckodriver	INFO	Listening on 127.0.0.1:37959
+1620993356076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8qdszw"
+1620993369450	geckodriver	INFO	Listening on 127.0.0.1:32795
+1620993370453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bRGjY"
+*** You are running in headless mode.
+1620994076827	geckodriver	INFO	Listening on 127.0.0.1:55433
+1620994077833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2tMLNI"
+1620994822380	geckodriver	INFO	Listening on 127.0.0.1:41189
+1620994822382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejinNB0"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1620994864099	geckodriver	INFO	Listening on 127.0.0.1:56645
+1620994865102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCDu6w7"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1620994867687	geckodriver	INFO	Listening on 127.0.0.1:54057
+1620994868691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuJOJ7G"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1620994869989	geckodriver	INFO	Listening on 127.0.0.1:52339
+1620994869991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAbrxbX"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1620995014017	geckodriver	INFO	Listening on 127.0.0.1:49135
+1620995015020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMmf69"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1620995016807	geckodriver	INFO	Listening on 127.0.0.1:44171
+1620995017811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekpFwg0"
+Authorization required, but no authorization protocol specified
+Unable to init server: Broadway display type not supported: 172.22.208.1:0.0
+Error: cannot open display: 172.22.208.1:0.0
+1621000168280	geckodriver	INFO	Listening on 127.0.0.1:50035
+1621000169283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile123LNx"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621000169595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621000171010	Marionette	INFO	Listening on port 40163
+1621000171105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621000181639	Marionette	INFO	Stopped listening on port 40163
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3735:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:689:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:734:24\nobserve@resource://devtools/client/framework/devtools-browser.js:184:26\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:2860:20\ndespatch@chrome://marionette/content/server.js:291:40\nexecute@chrome://marionette/content/server.js:264:16\nonPacket/<@chrome://marionette/content/server.js:237:20\nonPacket@chrome://marionette/content/server.js:238:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+SourceActor threw an exception: Error: Failed to fetch https://www.google.com/search?q=apple&tbm=isch&tbs=itp:photo. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.google.com/search?q=apple&tbm=isch&tbs=itp:photo. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.google.com/search?q=apple&tbm=isch&tbs=itp:photo. Code 2147500036.
+1621000449643	geckodriver	INFO	Listening on 127.0.0.1:58017
+1621000450646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezmvUxF"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621000450929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621000452404	Marionette	INFO	Listening on port 32971
+1621000452465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621000463223	Marionette	INFO	Stopped listening on port 32971
+1621001634949	geckodriver	INFO	Listening on 127.0.0.1:55059
+1621001634949	geckodriver	INFO	Listening on 127.0.0.1:50629
+1621001634949	geckodriver	INFO	Listening on 127.0.0.1:38273
+1621001634950	geckodriver	INFO	Listening on 127.0.0.1:49153
+1621001634952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaOYpli"
+1621001634952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHzHAPq"
+1621001634952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ZED17"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: No GPUs detected via PCI
+1621001635341	Marionette	INFO	Marionette enabled
+1621001635346	Marionette	INFO	Marionette enabled
+1621001635348	Marionette	INFO	Marionette enabled
+1621001635954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOARuIe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001636669	Marionette	INFO	Marionette enabled
+1621001637476	Marionette	INFO	Listening on port 35081
+1621001637529	Marionette	INFO	Listening on port 45701
+1621001637575	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001637580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001637771	Marionette	INFO	Listening on port 39753
+1621001637874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001638380	Marionette	INFO	Listening on port 41485
+1621001638477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001648508	Marionette	INFO	Stopped listening on port 39753
+1621001648580	Marionette	INFO	Stopped listening on port 45701
+1621001648657	Marionette	INFO	Stopped listening on port 35081
+1621001648996	geckodriver	INFO	Listening on 127.0.0.1:52243
+1621001649021	geckodriver	INFO	Listening on 127.0.0.1:39919
+1621001649081	geckodriver	INFO	Listening on 127.0.0.1:55605
+1621001649243	Marionette	INFO	Stopped listening on port 41485
+1621001649658	geckodriver	INFO	Listening on 127.0.0.1:35845
+1621001650001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiVKDQW"
+1621001650024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilearB8vl"
+1621001650086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemkp4Yi"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001650334	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001650363	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001650407	Marionette	INFO	Marionette enabled
+1621001650661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile54JADh"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001651136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001652590	Marionette	INFO	Listening on port 34209
+1621001652623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001652807	Marionette	INFO	Listening on port 34497
+1621001652847	Marionette	INFO	Listening on port 44211
+1621001652924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001652952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001653322	Marionette	INFO	Listening on port 35163
+1621001653402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001663538	Marionette	INFO	Stopped listening on port 34209
+1621001663706	Marionette	INFO	Stopped listening on port 44211
+1621001664028	geckodriver	INFO	Listening on 127.0.0.1:52761
+1621001664120	Marionette	INFO	Stopped listening on port 34497
+1621001664130	geckodriver	INFO	Listening on 127.0.0.1:42273
+1621001664133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelePxK1"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001664482	Marionette	INFO	Stopped listening on port 35163
+1621001664484	Marionette	INFO	Marionette enabled
+1621001664592	geckodriver	INFO	Listening on 127.0.0.1:37899
+1621001664967	geckodriver	INFO	Listening on 127.0.0.1:49771
+1621001664970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVFd4b"
+1621001665031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2yP1Lv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001665425	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001665455	Marionette	INFO	Marionette enabled
+1621001665595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTHSKY"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001666016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001666534	Marionette	INFO	Listening on port 43737
+1621001666563	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001667382	Marionette	INFO	Listening on port 42695
+1621001667409	Marionette	INFO	Listening on port 32931
+1621001667463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001667502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001668159	Marionette	INFO	Listening on port 36839
+1621001668228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001677246	Marionette	INFO	Stopped listening on port 43737
+1621001677664	geckodriver	INFO	Listening on 127.0.0.1:48063
+1621001677988	Marionette	INFO	Stopped listening on port 42695
+1621001678182	Marionette	INFO	Stopped listening on port 32931
+1621001678395	geckodriver	INFO	Listening on 127.0.0.1:44241
+1621001678590	geckodriver	INFO	Listening on 127.0.0.1:40831
+1621001678667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePtJHW4"
+1621001678855	Marionette	INFO	Stopped listening on port 36839
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001678993	Marionette	INFO	Marionette enabled
+1621001679398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejkLtgf"
+1621001679594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCY9gqu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001679809	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001679960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001680582	Marionette	INFO	Listening on port 39499
+1621001680703	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001681479	Marionette	INFO	Listening on port 38105
+1621001681524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001681597	Marionette	INFO	Listening on port 44053
+1621001681624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001691721	Marionette	INFO	Stopped listening on port 39499
+1621001692172	Marionette	INFO	Stopped listening on port 38105
+1621001692304	Marionette	INFO	Stopped listening on port 44053
+1621001745256	geckodriver	INFO	Listening on 127.0.0.1:42841
+1621001745256	geckodriver	INFO	Listening on 127.0.0.1:56539
+1621001745256	geckodriver	INFO	Listening on 127.0.0.1:33637
+1621001745259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileENmvsG"
+1621001745259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileURnBam"
+1621001745259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileigOv4L"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001745628	Marionette	INFO	Marionette enabled
+1621001745639	Marionette	INFO	Marionette enabled
+1621001745645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001747425	Marionette	INFO	Listening on port 45711
+1621001747465	Marionette	INFO	Listening on port 40069
+1621001747487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001747491	Marionette	INFO	Listening on port 43575
+1621001747579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001747622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001758348	Marionette	INFO	Stopped listening on port 43575
+1621001758728	Marionette	INFO	Stopped listening on port 40069
+1621001758869	Marionette	INFO	Stopped listening on port 45711
+1621001937635	geckodriver	INFO	Listening on 127.0.0.1:42055
+1621001937636	geckodriver	INFO	Listening on 127.0.0.1:33311
+1621001937639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley41I8i"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001937934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001938639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecbI1Aj"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621001938980	Marionette	INFO	Marionette enabled
+1621001939257	Marionette	INFO	Listening on port 41597
+1621001939358	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621001940809	Marionette	INFO	Listening on port 41651
+1621001940923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621001952543	Marionette	INFO	Stopped listening on port 41597
+1621001954513	Marionette	INFO	Stopped listening on port 41651
+1621002113756	geckodriver	INFO	Listening on 127.0.0.1:44769
+1621002113757	geckodriver	INFO	Listening on 127.0.0.1:34591
+1621002113757	geckodriver	INFO	Listening on 127.0.0.1:55765
+1621002113759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuycENi"
+1621002113759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeqa17U"
+1621002113760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFd1KXs"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002114131	Marionette	INFO	Marionette enabled
+1621002114136	Marionette	INFO	Marionette enabled
+1621002114137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002115884	Marionette	INFO	Listening on port 35225
+1621002115920	Marionette	INFO	Listening on port 34777
+1621002115979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002115981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002116063	Marionette	INFO	Listening on port 34713
+1621002116083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002131575	Marionette	INFO	Stopped listening on port 34713
+1621002131589	Marionette	INFO	Stopped listening on port 34777
+1621002131745	Marionette	INFO	Stopped listening on port 35225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621002947906	geckodriver	INFO	Listening on 127.0.0.1:38385
+1621002947906	geckodriver	INFO	Listening on 127.0.0.1:34839
+1621002947907	geckodriver	INFO	Listening on 127.0.0.1:49311
+1621002947908	geckodriver	INFO	Listening on 127.0.0.1:46183
+1621002947911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee3hECO"
+1621002947912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejHVQZB"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002948244	Marionette	INFO	Marionette enabled
+1621002948248	Marionette	INFO	Marionette enabled
+1621002948910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileefilas"
+1621002948910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemt7LXh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002949378	Marionette	INFO	Marionette enabled
+1621002949387	Marionette	INFO	Marionette enabled
+1621002949938	Marionette	INFO	Listening on port 46439
+1621002949997	Marionette	INFO	Listening on port 35595
+1621002950041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002950051	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002951341	Marionette	INFO	Listening on port 34261
+1621002951382	Marionette	INFO	Listening on port 45047
+1621002951442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002951447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002954021	Marionette	INFO	Stopped listening on port 35595
+1621002954364	geckodriver	INFO	Listening on 127.0.0.1:37365
+1621002954368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLj80lP"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002954801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002956429	Marionette	INFO	Listening on port 46833
+1621002956490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: https://www.gstatic.com/_/mss/boq-search/_/js/k=boq-search.VisualFrontendUi.en_US.UlhIgqpsghc.es5.O/am=yAoAjBE_AsAbAQIAgpAMAgiIAQEB6wLGAC_sOIAAAAhBHgYEAAQgEAIBIAMAwA8ASAAAAABw4cEBAQAAAAAAAFBARAAAAAAAAFoCAAAAAEA/d=1/excm=_b,_tp,searchview/ed=1/dg=0/wt=2/rs=AH7-fg75TJ8xS5vHFxptBtUM_U3Wblj3kQ/m=_b,_tp, line 575: NS_ERROR_NOT_INITIALIZED: 
+1621002957917	geckodriver	INFO	Listening on 127.0.0.1:38263
+1621002958029	Marionette	INFO	Stopped listening on port 46833
+1621002958404	Marionette	INFO	Stopped listening on port 46439
+1621002958921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev9rB2L"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002959271	Marionette	INFO	Marionette enabled
+1621002959396	Marionette	INFO	Stopped listening on port 45047
+1621002959841	Marionette	INFO	Stopped listening on port 34261
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002960912	Marionette	INFO	Listening on port 44877
+1621002960946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002961260	Marionette	INFO	Stopped listening on port 44877
+1621002989244	geckodriver	INFO	Listening on 127.0.0.1:52157
+1621002989247	geckodriver	INFO	Listening on 127.0.0.1:42007
+1621002989247	geckodriver	INFO	Listening on 127.0.0.1:36805
+1621002989247	geckodriver	INFO	Listening on 127.0.0.1:38547
+1621002989247	geckodriver	INFO	Listening on 127.0.0.1:37889
+1621002989247	geckodriver	INFO	Listening on 127.0.0.1:58085
+1621002989250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVdEBYg"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002989559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002990247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenoxSw5"
+1621002990251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZaBrSt"
+1621002990251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY4M87o"
+1621002990252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWoMsSV"
+1621002990252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXt8Hfs"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002990784	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621002990852	Marionette	INFO	Marionette enabled
+1621002990866	Marionette	INFO	Marionette enabled
+1621002990877	Marionette	INFO	Marionette enabled
+1621002990883	Marionette	INFO	Marionette enabled
+1621002991301	Marionette	INFO	Listening on port 33209
+1621002991392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621002993444	Marionette	INFO	Listening on port 33877
+1621002993494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002993597	Marionette	INFO	Listening on port 35739
+1621002993633	Marionette	INFO	Listening on port 37297
+1621002993649	Marionette	INFO	Listening on port 37029
+1621002993685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002993693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002993708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621002993750	Marionette	INFO	Listening on port 33487
+1621002993796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003000654	Marionette	INFO	Stopped listening on port 33209
+1621003002128	Marionette	INFO	Stopped listening on port 33877
+1621003002253	Marionette	INFO	Stopped listening on port 35739
+1621003002705	Marionette	INFO	Stopped listening on port 33487
+1621003002890	Marionette	INFO	Stopped listening on port 37029
+1621003003293	Marionette	INFO	Stopped listening on port 37297
+1621003078749	geckodriver	INFO	Listening on 127.0.0.1:45813
+1621003078750	geckodriver	INFO	Listening on 127.0.0.1:49627
+1621003078750	geckodriver	INFO	Listening on 127.0.0.1:57965
+1621003078751	geckodriver	INFO	Listening on 127.0.0.1:56271
+1621003078751	geckodriver	INFO	Listening on 127.0.0.1:33251
+1621003078751	geckodriver	INFO	Listening on 127.0.0.1:38061
+1621003078755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletzeIfz"
+1621003078755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACkQtk"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003079101	Marionette	INFO	Marionette enabled
+1621003079104	Marionette	INFO	Marionette enabled
+1621003079755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGRyP1"
+1621003079755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT5xksq"
+1621003079756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5ZjJxh"
+1621003079757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqCpK2O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003080380	Marionette	INFO	Marionette enabled
+1621003080380	Marionette	INFO	Marionette enabled
+1621003080389	Marionette	INFO	Marionette enabled
+1621003080397	Marionette	INFO	Marionette enabled
+1621003080906	Marionette	INFO	Listening on port 40811
+1621003080989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003081119	Marionette	INFO	Listening on port 32795
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003081595	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003082940	Marionette	INFO	Listening on port 42001
+1621003082991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003083016	Marionette	INFO	Listening on port 42987
+1621003083044	Marionette	INFO	Listening on port 39035
+1621003083048	Marionette	INFO	Listening on port 37767
+1621003083093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003083099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003083107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003087418	Marionette	INFO	Stopped listening on port 40811
+1621003088092	Marionette	INFO	Stopped listening on port 32795
+1621003089834	Marionette	INFO	Stopped listening on port 39035
+1621003089912	Marionette	INFO	Stopped listening on port 42001
+1621003090057	Marionette	INFO	Stopped listening on port 42987
+1621003090246	Marionette	INFO	Stopped listening on port 37767
+1621003227324	geckodriver	INFO	Listening on 127.0.0.1:57465
+1621003227324	geckodriver	INFO	Listening on 127.0.0.1:57201
+1621003227324	geckodriver	INFO	Listening on 127.0.0.1:52919
+1621003227324	geckodriver	INFO	Listening on 127.0.0.1:58661
+1621003227325	geckodriver	INFO	Listening on 127.0.0.1:32911
+1621003227327	geckodriver	INFO	Listening on 127.0.0.1:44371
+1621003227327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN0lnpq"
+1621003227327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenCd9fF"
+1621003227328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexuelwm"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003227702	Marionette	INFO	Marionette enabled
+1621003227702	Marionette	INFO	Marionette enabled
+1621003227706	Marionette	INFO	Marionette enabled
+1621003228328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJNQrC"
+1621003228328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0gmXzY"
+1621003228331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekReiQD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003229022	Marionette	INFO	Marionette enabled
+1621003229038	Marionette	INFO	Marionette enabled
+1621003229050	Marionette	INFO	Marionette enabled
+1621003229720	Marionette	INFO	Listening on port 43329
+1621003229791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003230118	Marionette	INFO	Listening on port 32787
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003230171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003230220	Marionette	INFO	Listening on port 41053
+1621003230268	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003231342	Marionette	INFO	Listening on port 42603
+1621003231472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003231482	Marionette	INFO	Listening on port 41233
+1621003231529	Marionette	INFO	Listening on port 34301
+1621003231584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003231586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003242518	Marionette	INFO	Stopped listening on port 43329
+1621003242589	Marionette	INFO	Stopped listening on port 32787
+1621003243113	Marionette	INFO	Stopped listening on port 41053
+1621003243848	Marionette	INFO	Stopped listening on port 42603
+1621003244437	Marionette	INFO	Stopped listening on port 34301
+1621003244494	Marionette	INFO	Stopped listening on port 41233
+1621003418867	geckodriver	INFO	Listening on 127.0.0.1:46151
+1621003418868	geckodriver	INFO	Listening on 127.0.0.1:38839
+1621003418872	geckodriver	INFO	Listening on 127.0.0.1:33863
+1621003418873	geckodriver	INFO	Listening on 127.0.0.1:57131
+1621003418873	geckodriver	INFO	Listening on 127.0.0.1:46401
+1621003418873	geckodriver	INFO	Listening on 127.0.0.1:48887
+1621003418875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZryRb"
+1621003418875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3c2BWn"
+1621003418875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVdmGut"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003419277	Marionette	INFO	Marionette enabled
+1621003419281	Marionette	INFO	Marionette enabled
+1621003419288	Marionette	INFO	Marionette enabled
+1621003419872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehQNKqD"
+1621003419875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWapHYf"
+1621003419877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehF3pEs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003420624	Marionette	INFO	Marionette enabled
+1621003420636	Marionette	INFO	Marionette enabled
+1621003420657	Marionette	INFO	Marionette enabled
+1621003421375	Marionette	INFO	Listening on port 33349
+1621003421416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003421732	Marionette	INFO	Listening on port 43673
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003421811	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003421825	Marionette	INFO	Listening on port 35471
+1621003421911	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621003423119	Marionette	INFO	Listening on port 34043
+1621003423125	Marionette	INFO	Listening on port 34451
+1621003423175	Marionette	INFO	Listening on port 46375
+1621003423208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003423211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003423212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003428014	Marionette	INFO	Stopped listening on port 33349
+1621003428295	Marionette	INFO	Stopped listening on port 43673
+1621003428395	Marionette	INFO	Stopped listening on port 35471
+1621003429910	Marionette	INFO	Stopped listening on port 34451
+1621003429975	Marionette	INFO	Stopped listening on port 34043
+1621003429984	Marionette	INFO	Stopped listening on port 46375
+1621003509424	geckodriver	INFO	Listening on 127.0.0.1:40563
+1621003509424	geckodriver	INFO	Listening on 127.0.0.1:47461
+1621003509425	geckodriver	INFO	Listening on 127.0.0.1:59463
+1621003509425	geckodriver	INFO	Listening on 127.0.0.1:46089
+1621003509425	geckodriver	INFO	Listening on 127.0.0.1:42477
+1621003509429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevpEVZz"
+1621003509429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIWDSyq"
+1621003509429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHeEbqv"
+1621003509429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5lToy"
+1621003509430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GxiWO"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621003509779	Marionette	INFO	Marionette enabled
+1621003509782	Marionette	INFO	Marionette enabled
+1621003509783	Marionette	INFO	Marionette enabled
+1621003509784	Marionette	INFO	Marionette enabled
+1621003509787	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:18212): GLib-GObject-CRITICAL **: 23:45:10.171: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18220): GLib-GObject-CRITICAL **: 23:45:10.186: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18234): GLib-GObject-CRITICAL **: 23:45:10.193: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18229): GLib-GObject-CRITICAL **: 23:45:10.194: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18269): GLib-GObject-CRITICAL **: 23:45:10.246: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18315): GLib-GObject-CRITICAL **: 23:45:10.260: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18328): GLib-GObject-CRITICAL **: 23:45:10.292: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18329): GLib-GObject-CRITICAL **: 23:45:10.295: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18331): GLib-GObject-CRITICAL **: 23:45:10.324: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18350): GLib-GObject-CRITICAL **: 23:45:10.326: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18718): GLib-GObject-CRITICAL **: 23:45:11.481: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621003511493	Marionette	INFO	Listening on port 39457
+1621003511551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003511610	Marionette	INFO	Listening on port 40137
+1621003511620	Marionette	INFO	Listening on port 37887
+
+(/usr/lib/firefox/firefox:18765): GLib-GObject-CRITICAL **: 23:45:11.649: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621003511654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003511655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003511656	Marionette	INFO	Listening on port 35421
+1621003511656	Marionette	INFO	Listening on port 34291
+
+(/usr/lib/firefox/firefox:18768): GLib-GObject-CRITICAL **: 23:45:11.657: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18776): GLib-GObject-CRITICAL **: 23:45:11.681: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18801): GLib-GObject-CRITICAL **: 23:45:11.693: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621003511759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621003511759	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19009): GLib-GObject-CRITICAL **: 23:45:13.261: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19015): GLib-GObject-CRITICAL **: 23:45:13.292: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19016): GLib-GObject-CRITICAL **: 23:45:13.292: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19076): GLib-GObject-CRITICAL **: 23:45:13.395: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19101): GLib-GObject-CRITICAL **: 23:45:13.710: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621003519976	Marionette	INFO	Stopped listening on port 35421
+1621003520344	Marionette	INFO	Stopped listening on port 39457
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621003520625	Marionette	INFO	Stopped listening on port 37887
+1621003520659	Marionette	INFO	Stopped listening on port 40137
+1621003520765	Marionette	INFO	Stopped listening on port 34291
+1621004026881	geckodriver	INFO	Listening on 127.0.0.1:39049
+1621004026881	geckodriver	INFO	Listening on 127.0.0.1:44401
+1621004026881	geckodriver	INFO	Listening on 127.0.0.1:42519
+1621004026884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqLtC9"
+1621004026886	geckodriver	INFO	Listening on 127.0.0.1:35535
+1621004026886	geckodriver	INFO	Listening on 127.0.0.1:52721
+1621004026887	geckodriver	INFO	Listening on 127.0.0.1:33909
+1621004026889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRPamd"
+1621004026889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96whaF"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004027301	Marionette	INFO	Marionette enabled
+1621004027306	Marionette	INFO	Marionette enabled
+1621004027310	Marionette	INFO	Marionette enabled
+1621004027886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileduNx6H"
+1621004027886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6XOUYu"
+1621004027891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefyQeQx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004028668	Marionette	INFO	Marionette enabled
+1621004028670	Marionette	INFO	Marionette enabled
+1621004028685	Marionette	INFO	Marionette enabled
+1621004029451	Marionette	INFO	Listening on port 46819
+1621004029717	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004029926	Marionette	INFO	Listening on port 40059
+1621004029933	Marionette	INFO	Listening on port 44151
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004030021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004030030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004031256	Marionette	INFO	Listening on port 40861
+1621004031335	Marionette	INFO	Listening on port 33495
+1621004031336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004031361	Marionette	INFO	Listening on port 38527
+1621004031426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004031430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004037733	Marionette	INFO	Stopped listening on port 46819
+1621004038025	Marionette	INFO	Stopped listening on port 44151
+1621004038240	Marionette	INFO	Stopped listening on port 40059
+1621004039171	Marionette	INFO	Stopped listening on port 40861
+1621004039216	Marionette	INFO	Stopped listening on port 38527
+1621004039617	Marionette	INFO	Stopped listening on port 33495
+1621004172182	geckodriver	INFO	Listening on 127.0.0.1:48529
+1621004172183	geckodriver	INFO	Listening on 127.0.0.1:42395
+1621004172183	geckodriver	INFO	Listening on 127.0.0.1:46693
+1621004172183	geckodriver	INFO	Listening on 127.0.0.1:57015
+1621004172183	geckodriver	INFO	Listening on 127.0.0.1:46705
+1621004172183	geckodriver	INFO	Listening on 127.0.0.1:58829
+1621004172185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiZCJ13"
+1621004172185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6GCnSh"
+1621004172185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesFydSB"
+1621004172185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBZY9F9"
+1621004172186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledF04rr"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004172641	Marionette	INFO	Marionette enabled
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004172644	Marionette	INFO	Marionette enabled
+1621004172645	Marionette	INFO	Marionette enabled
+1621004172653	Marionette	INFO	Marionette enabled
+1621004172668	Marionette	INFO	Marionette enabled
+1621004173188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemXbWTm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004174025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004175299	Marionette	INFO	Listening on port 33549
+1621004175434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004175469	Marionette	INFO	Listening on port 43941
+1621004175492	Marionette	INFO	Listening on port 41517
+1621004175498	Marionette	INFO	Listening on port 40563
+1621004175552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004175555	Marionette	INFO	Listening on port 36501
+1621004175571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004175616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004175623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004176280	Marionette	INFO	Listening on port 46305
+1621004176312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004191561	Marionette	INFO	Stopped listening on port 40563
+1621004193210	Marionette	INFO	Stopped listening on port 43941
+1621004193230	Marionette	INFO	Stopped listening on port 41517
+1621004193303	Marionette	INFO	Stopped listening on port 36501
+1621004193323	Marionette	INFO	Stopped listening on port 46305
+1621004193471	Marionette	INFO	Stopped listening on port 33549
+1621004326802	geckodriver	INFO	Listening on 127.0.0.1:58049
+1621004326802	geckodriver	INFO	Listening on 127.0.0.1:52823
+1621004326803	geckodriver	INFO	Listening on 127.0.0.1:33171
+1621004326803	geckodriver	INFO	Listening on 127.0.0.1:37713
+1621004326805	geckodriver	INFO	Listening on 127.0.0.1:40619
+1621004326805	geckodriver	INFO	Listening on 127.0.0.1:43229
+1621004326805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile093vyQ"
+1621004326807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBgwXtR"
+1621004326807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileshQD4d"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004327193	Marionette	INFO	Marionette enabled
+1621004327193	Marionette	INFO	Marionette enabled
+1621004327199	Marionette	INFO	Marionette enabled
+1621004327807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZm6Wd0"
+1621004327807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileolZwMQ"
+1621004327809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFMu7Gj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004328541	Marionette	INFO	Marionette enabled
+1621004328552	Marionette	INFO	Marionette enabled
+1621004328556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004329727	Marionette	INFO	Listening on port 45931
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004329826	Marionette	INFO	Listening on port 41447
+1621004329844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004329954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004330025	Marionette	INFO	Listening on port 42643
+1621004330142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004330899	Marionette	INFO	Listening on port 44119
+1621004330933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004330940	Marionette	INFO	Listening on port 41479
+1621004331044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004331058	Marionette	INFO	Listening on port 32939
+1621004331139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004348174	Marionette	INFO	Stopped listening on port 41447
+1621004348490	Marionette	INFO	Stopped listening on port 45931
+1621004348670	Marionette	INFO	Stopped listening on port 42643
+1621004349626	Marionette	INFO	Stopped listening on port 44119
+1621004351299	Marionette	INFO	Stopped listening on port 41479
+1621004351392	Marionette	INFO	Stopped listening on port 32939
+1621004637057	geckodriver	INFO	Listening on 127.0.0.1:44615
+1621004638060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewel0ZU"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004638375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004639829	Marionette	INFO	Listening on port 37525
+1621004639877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004645434	Marionette	INFO	Stopped listening on port 37525
+1621004749679	geckodriver	INFO	Listening on 127.0.0.1:50973
+1621004749679	geckodriver	INFO	Listening on 127.0.0.1:54385
+1621004749679	geckodriver	INFO	Listening on 127.0.0.1:48953
+1621004749682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9rY9KK"
+1621004749682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXTLtG3"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004750032	Marionette	INFO	Marionette enabled
+1621004750039	Marionette	INFO	Marionette enabled
+1621004750685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqGpwl1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004751138	Marionette	INFO	Marionette enabled
+1621004751961	Marionette	INFO	Listening on port 41823
+1621004751972	Marionette	INFO	Listening on port 40423
+1621004752003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004752009	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004752968	Marionette	INFO	Listening on port 42323
+1621004753016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004759636	Marionette	INFO	Stopped listening on port 41823
+1621004760068	Marionette	INFO	Stopped listening on port 40423
+1621004760831	Marionette	INFO	Stopped listening on port 42323
+1621004791753	geckodriver	INFO	Listening on 127.0.0.1:54837
+1621004791753	geckodriver	INFO	Listening on 127.0.0.1:42447
+1621004791755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYv9g7E"
+1621004791755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq3fOqz"
+1621004791756	geckodriver	INFO	Listening on 127.0.0.1:49943
+1621004791758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "User-Agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Whale/2.9.115.16 Safari/537.36\"" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHaxAf"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621004792050	Marionette	INFO	Marionette enabled
+1621004792056	Marionette	INFO	Marionette enabled
+1621004792064	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26115): GLib-GObject-CRITICAL **: 00:06:32.416: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26116): GLib-GObject-CRITICAL **: 00:06:32.419: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26127): GLib-GObject-CRITICAL **: 00:06:32.428: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26179): GLib-GObject-CRITICAL **: 00:06:32.478: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26185): GLib-GObject-CRITICAL **: 00:06:32.479: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26180): GLib-GObject-CRITICAL **: 00:06:32.481: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621004793424	Marionette	INFO	Listening on port 34611
+
+(/usr/lib/firefox/firefox:26411): GLib-GObject-CRITICAL **: 00:06:33.451: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621004793461	Marionette	INFO	Listening on port 42269
+1621004793476	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26428): GLib-GObject-CRITICAL **: 00:06:33.493: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621004793573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621004793584	Marionette	INFO	Listening on port 34705
+
+(/usr/lib/firefox/firefox:26478): GLib-GObject-CRITICAL **: 00:06:33.616: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621004793672	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26580): GLib-GObject-CRITICAL **: 00:06:34.982: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26600): GLib-GObject-CRITICAL **: 00:06:35.079: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26626): GLib-GObject-CRITICAL **: 00:06:35.229: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621004801278	Marionette	INFO	Stopped listening on port 34611
+1621004801425	Marionette	INFO	Stopped listening on port 34705
+1621004802521	Marionette	INFO	Stopped listening on port 42269
