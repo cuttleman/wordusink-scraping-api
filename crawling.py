@@ -24,7 +24,7 @@ def get_image_with_selenium(term, start_num):
 
   for idx,image in enumerate(images):
     # limit num = 18
-    if( limit_count >= 3):
+    if( limit_count >= 18):
       break
     else:
       if (idx >= start_num):
