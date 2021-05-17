@@ -1,18 +1,22 @@
 from flask import Flask, jsonify
-from crawling import get_image_with_bs,get_image_with_selenium
+from scrapper import get_image_with_bs,get_image_with_selenium
 from threading import Thread
 from multiprocessing import Pool
 from itertools import chain
+import time
 
 app = Flask(__name__)
 
 @app.route("/api/<term>/<start>", methods=['GET'])
 def get_images(term, start):
-  pool = Pool(processes=3)
-  # from_googles = pool.starmap(get_image_with_selenium,[(term,int(start)),(term,int(start)+3),(term,int(start)+6)])
-  # return jsonify(list(chain.from_iterable(from_googles)))
+  # 멀티 프로세싱 with 셀레니움
+  start_time = time.time()
+  # pool = Pool(processes=6)
+  # from_googles = pool.starmap(get_image_with_selenium,[(term,int(start)),(term,int(start)+1),(term,int(start)+2),(term,int(start)+3),(term,int(start)+4),(term,int(start)+5)])
   from_googles = get_image_with_bs(term, int(start))
-  return from_googles
+  print("--- %s seconds ---" % (time.time() - start_time))
+  # return jsonify(list(chain.from_iterable(from_googles)))
+  return jsonify(from_googles)
 
 @app.route("/")
 def index():
