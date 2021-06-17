@@ -7,7 +7,7 @@ _This service is web scrapper for **wordusink app** that purpose to google image
 ## Usage
 
 ```
-https://<deploy_url>.com/<term>/<start_number>/
+https://<deploy_url>.com/api/<term>/<start_number>/
 ```
 
 _\<term>_ is requested **value** for searching
