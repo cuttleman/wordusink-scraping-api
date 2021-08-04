@@ -47,7 +47,10 @@ def get_image_with_bs(term, start_num):
   total = []
   request = requests.get(f"https://www.google.com/search?q={term}&tbm=isch&tbs=isz:lt,islt:qsvga&num=18&start={start_num}&imgtype=photo")
   soup = BeautifulSoup(request.text, "html.parser")
-  images = soup.find_all("img",{"class":"t0fcAb"})
+  
+  image_container = soup.find("table", {"class":"GpQGbf"})
+  images = image_container.find_all("img")
+  # print(images)
   for image in images:
     total.append(image["src"])
   print(f"Success scrapped raw_images - term: {term}, index: {start_num}")
